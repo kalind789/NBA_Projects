@@ -1,0 +1,621 @@
+,Player,Age,Pos,Ht,Wt,Birth Date,Birth,Exp,PlayerLabel,Salary,Salary_number,Team
+0,Dyson Daniels,22.0,G,6-8,199.0,"March 17, 2003",AU,3,"Dyson
+Daniels","$7,707,709",7.707709,ATL
+1,Jalen Johnson,23.0,F,6-9,220.0,"December 18, 2001",US,4,"Jalen
+Johnson","$30,000,000",30.0,ATL
+2,Kobe Bufkin,21.0,G,6-4,195.0,"September 21, 2003",US,2,"Kobe
+Bufkin","$4,503,720",4.50372,ATL
+3,Kristaps Porziņģis,30.0,F-C,7-2,240.0,"August 2, 1995",LV,9,"Kristaps
+Porziņģis","$30,731,707",30.731707,ATL
+4,Mouhamed Gueye,22.0,F,6-11,210.0,"November 9, 2002",SN,2,"Mouhamed
+Gueye","$2,221,677",2.221677,ATL
+5,Onyeka Okongwu,24.0,F,6-8,235.0,"December 11, 2000",US,5,"Onyeka
+Okongwu","$15,000,000",15.0,ATL
+6,Trae Young,26.0,G,6-1,164.0,"September 19, 1998",US,7,"Trae
+Young","$45,999,660",45.99966,ATL
+7,Vit Krejci,25.0,G,6-8,195.0,"June 19, 2000",CZ,4,"Vit
+Krejci","$2,349,578",2.349578,ATL
+8,Zaccharie Risacher,20.0,F,6-8,200.0,"April 8, 2005",ES,1,"Zaccharie
+Risacher","$13,197,720",13.19772,ATL
+0,Anfernee Simons,26.0,G,6-3,181.0,"June 8, 1999",US,7,"Anfernee
+Simons","$27,678,571",27.678571,BOS
+1,Baylor Scheierman,24.0,G,6-6,205.0,"September 26, 2000",US,1,"Baylor
+Scheierman","$2,619,000",2.619,BOS
+2,Derrick White,31.0,G,6-4,190.0,"July 2, 1994",US,8,"Derrick
+White","$28,100,000",28.1,BOS
+3,Jaylen Brown,28.0,F-G,6-6,223.0,"October 24, 1996",US,9,"Jaylen
+Brown","$53,142,264",53.142264,BOS
+4,Jayson Tatum,27.0,F,6-8,210.0,"March 3, 1998",US,8,"Jayson
+Tatum","$54,126,450",54.12645,BOS
+5,Jordan Walsh,21.0,G-F,6-7,205.0,"March 3, 2004",US,2,"Jordan
+Walsh","$2,221,677",2.221677,BOS
+6,Neemias Queta,26.0,C,7-0,245.0,"July 13, 1999",PT,4,"Neemias
+Queta","$2,349,578",2.349578,BOS
+7,Payton Pritchard,27.0,G,6-1,195.0,"January 28, 1998",US,5,"Payton
+Pritchard","$7,232,143",7.232143,BOS
+8,Sam Hauser,27.0,F,6-8,215.0,"December 8, 1997",US,4,"Sam
+Hauser","$10,044,644",10.044644,BOS
+9,Xavier Tillman Sr.,26.0,F,6-8,245.0,"January 12, 1999",US,5,"Xavier
+Tillman Sr.","$2,546,675",2.546675,BOS
+0,Dariq Whitehead,21.0,F,6-7,220.0,"August 1, 2004",US,2,"Dariq
+Whitehead","$3,262,560",3.26256,BRK
+1,Drew Timme,24.0,F,6-10,235.0,"September 9, 2000",US,1,"Drew
+Timme","$1,955,377",1.955377,BRK
+2,Haywood Highsmith,28.0,F,6-7,220.0,"December 9, 1996",US,5,"Haywood
+Highsmith","$5,616,000",5.616,BRK
+3,Jalen Wilson,24.0,F,6-8,225.0,"November 4, 2000",US,2,"Jalen
+Wilson","$2,221,677",2.221677,BRK
+4,Keon Johnson,23.0,G,6-5,186.0,"March 10, 2002",US,4,"Keon
+Johnson","$2,349,578",2.349578,BRK
+5,Michael Porter Jr.,27.0,F,6-10,218.0,"June 29, 1998",US,6,"Michael
+Porter Jr.","$38,333,050",38.33305,BRK
+6,Nic Claxton,26.0,C,6-11,215.0,"April 17, 1999",US,6,"Nic
+Claxton","$25,352,272",25.352272,BRK
+7,Noah Clowney,21.0,F,6-10,210.0,"July 14, 2004",US,2,"Noah
+Clowney","$3,398,640",3.39864,BRK
+8,Terance Mann,28.0,G-F,6-5,215.0,"October 18, 1996",US,6,"Terance
+Mann","$15,500,000",15.5,BRK
+9,Tyrese Martin,26.0,G,6-6,215.0,"March 7, 1999",US,2,"Tyrese
+Martin","$2,191,897",2.191897,BRK
+0,Brandon Miller,22.0,F-G,6-9,201.0,"November 22, 2002",US,2,"Brandon
+Miller","$11,968,800",11.9688,CHO
+1,DaQuan Jeffries,28.0,G-F,6-5,230.0,"August 30, 1997",US,6,"DaQuan
+Jeffries","$2,743,776",2.743776,CHO
+2,Grant Williams,26.0,F,6-6,236.0,"November 30, 1998",US,6,"Grant
+Williams","$13,645,500",13.6455,CHO
+3,Josh Green,24.0,G-F,6-5,200.0,"November 16, 2000",AU,5,"Josh
+Green","$13,666,667",13.666667,CHO
+4,Jusuf Nurkić,31.0,C,7-0,290.0,"August 23, 1994",BA,11,"Jusuf
+Nurkić","$19,375,000",19.375,CHO
+5,LaMelo Ball,24.0,G,6-7,180.0,"August 22, 2001",US,5,"LaMelo
+Ball","$37,958,760",37.95876,CHO
+6,Miles Bridges,27.0,G-F,6-7,225.0,"March 21, 1998",US,6,"Miles
+Bridges","$25,000,000",25.0,CHO
+7,Moussa Diabaté,23.0,F,6-11,210.0,"January 21, 2002",FR,3,"Moussa
+Diabaté","$2,270,735",2.270735,CHO
+8,Nick Smith Jr.,21.0,G,6-2,185.0,"April 18, 2004",US,2,"Nick
+Smith Jr.","$2,710,680",2.71068,CHO
+9,Pat Connaughton,32.0,G,6-5,209.0,"January 6, 1993",US,10,"Pat
+Connaughton","$9,423,869",9.423869,CHO
+10,Tidjane Salaün,20.0,F,6-9,207.0,"August 10, 2005",FR,1,"Tidjane
+Salaün","$7,863,240",7.86324,CHO
+0,Ayo Dosunmu,25.0,G,6-5,200.0,"January 17, 2000",US,4,"Ayo
+Dosunmu","$7,518,518",7.518518,CHI
+1,Coby White,25.0,G,6-5,195.0,"February 16, 2000",US,6,"Coby
+White","$12,888,889",12.888889,CHI
+2,Dalen Terry,23.0,G,6-7,195.0,"July 12, 2002",US,3,"Dalen
+Terry","$5,399,118",5.399118,CHI
+3,Isaac Okoro,24.0,G-F,6-5,225.0,"January 26, 2001",US,5,"Isaac
+Okoro","$11,000,000",11.0,CHI
+4,Jalen Smith,25.0,F,6-10,215.0,"March 16, 2000",US,5,"Jalen
+Smith","$9,000,000",9.0,CHI
+5,Jevon Carter,29.0,G,6-1,200.0,"September 14, 1995",US,7,"Jevon
+Carter","$6,809,524",6.809524,CHI
+6,Julian Phillips,21.0,F,6-8,198.0,"November 5, 2003",US,2,"Julian
+Phillips","$2,221,677",2.221677,CHI
+7,Kevin Huerter,27.0,G,6-7,190.0,"August 27, 1998",US,7,"Kevin
+Huerter","$17,991,071",17.991071,CHI
+8,Matas Buzelis,20.0,F,6-10,209.0,"October 13, 2004",US,1,"Matas
+Buzelis","$5,455,560",5.45556,CHI
+9,Nikola Vučević,34.0,C,6-10,260.0,"October 24, 1990",CH,14,"Nikola
+Vučević","$21,481,481",21.481481,CHI
+10,Patrick Williams,24.0,F,6-7,215.0,"August 26, 2001",US,5,"Patrick
+Williams","$18,000,000",18.0,CHI
+11,Zach Collins,27.0,C-F,6-11,250.0,"November 19, 1997",US,7,"Zach
+Collins","$18,080,496",18.080496,CHI
+0,Chuma Okeke,27.0,F,6-6,229.0,"August 18, 1998",US,5,"Chuma
+Okeke","$2,546,675",2.546675,CLE
+1,Craig Porter Jr.,25.0,G,6-2,186.0,"February 26, 2000",US,2,"Craig
+Porter Jr.","$2,221,677",2.221677,CLE
+2,Darius Garland,25.0,G,6-1,192.0,"January 26, 2000",US,6,"Darius
+Garland","$39,446,090",39.44609,CLE
+3,De'Andre Hunter,27.0,F,6-8,225.0,"December 2, 1997",US,6,"De'Andre
+Hunter","$23,303,571",23.303571,CLE
+4,Dean Wade,28.0,F,6-9,228.0,"November 20, 1996",US,6,"Dean
+Wade","$6,623,456",6.623456,CLE
+5,Donovan Mitchell,28.0,G,6-3,215.0,"September 7, 1996",US,8,"Donovan
+Mitchell","$46,394,100",46.3941,CLE
+6,Evan Mobley,24.0,F-C,6-11,215.0,"June 18, 2001",US,4,"Evan
+Mobley","$46,394,100",46.3941,CLE
+7,Jarrett Allen,27.0,C-F,6-11,243.0,"April 21, 1998",US,8,"Jarrett
+Allen","$20,000,000",20.0,CLE
+8,Jaylon Tyson,22.0,G,6-6,215.0,"December 2, 2002",US,1,"Jaylon
+Tyson","$3,492,480",3.49248,CLE
+9,Lonzo Ball,27.0,G,6-6,190.0,"October 27, 1997",US,6,"Lonzo
+Ball","$10,000,000",10.0,CLE
+10,Max Strus,29.0,G,6-5,215.0,"March 28, 1996",US,6,"Max
+Strus","$15,936,452",15.936452,CLE
+0,Anthony Davis,32.0,F-C,6-10,253.0,"March 11, 1993",US,13,"Anthony
+Davis","$54,126,450",54.12645,DAL
+1,Brandon Williams,25.0,G,6-1,190.0,"November 22, 1999",US,3,"Brandon
+Williams","$2,270,735",2.270735,DAL
+2,Caleb Martin,29.0,F,6-5,205.0,"September 28, 1995",US,6,"Caleb
+Martin","$9,594,044",9.594044,DAL
+3,Daniel Gafford,26.0,C-F,6-10,234.0,"October 1, 1998",US,6,"Daniel
+Gafford","$14,386,320",14.38632,DAL
+4,Dereck Lively II,21.0,C,7-1,230.0,"February 12, 2004",US,2,"Dereck
+Lively II","$5,253,360",5.25336,DAL
+5,Dwight Powell,34.0,F-C,6-10,240.0,"July 20, 1991",CA,11,"Dwight
+Powell","$4,000,000",4.0,DAL
+6,Jaden Hardy,23.0,G,6-4,198.0,"July 5, 2002",US,3,"Jaden
+Hardy","$6,000,000",6.0,DAL
+7,Klay Thompson,35.0,G-F,6-5,215.0,"February 8, 1990",US,12,"Klay
+Thompson","$16,666,667",16.666667,DAL
+8,Max Christie,22.0,G,6-6,190.0,"February 10, 2003",US,3,"Max
+Christie","$7,714,286",7.714286,DAL
+9,Naji Marshall,27.0,F,6-7,220.0,"January 24, 1998",US,5,"Naji
+Marshall","$9,000,000",9.0,DAL
+10,P.J. Washington,27.0,F,6-7,230.0,"August 23, 1998",US,6,"P.J.
+Washington","$14,152,174",14.152174,DAL
+0,Aaron Gordon,29.0,F,6-8,235.0,"September 16, 1995",US,11,"Aaron
+Gordon","$22,841,455",22.841455,DEN
+1,Cameron Johnson,29.0,F,6-8,210.0,"March 3, 1996",US,6,"Cameron
+Johnson","$20,543,478",20.543478,DEN
+2,Christian Braun,24.0,G,6-6,218.0,"April 17, 2001",US,3,"Christian
+Braun","$4,921,797",4.921797,DEN
+3,DaRon Holmes,23.0,F,6-10,225.0,"August 15, 2002",US,R,"DaRon
+Holmes","$3,218,760",3.21876,DEN
+4,Hunter Tyson,25.0,F,6-8,215.0,"June 13, 2000",US,2,"Hunter
+Tyson","$2,221,677",2.221677,DEN
+5,Jalen Pickett,25.0,G,6-4,209.0,"October 22, 1999",US,2,"Jalen
+Pickett","$2,221,677",2.221677,DEN
+6,Jamal Murray,28.0,G,6-4,215.0,"February 23, 1997",CA,8,"Jamal
+Murray","$46,394,100",46.3941,DEN
+7,Jonas Valančiūnas,33.0,C,6-11,265.0,"May 6, 1992",LT,13,"Jonas
+Valančiūnas","$10,395,000",10.395,DEN
+8,Julian Strawther,23.0,F,6-7,205.0,"April 18, 2002",US,2,"Julian
+Strawther","$2,674,200",2.6742,DEN
+9,Nikola Jokić,30.0,C-F,6-11,284.0,"February 19, 1995",RS,10,"Nikola
+Jokić","$55,224,526",55.224526,DEN
+10,Peyton Watson,22.0,G-F,6-8,200.0,"September 11, 2002",US,3,"Peyton
+Watson","$4,356,476",4.356476,DEN
+11,Russell Westbrook,36.0,G,6-4,200.0,"November 12, 1988",US,17,"Russell
+Westbrook","$3,468,960",3.46896,DEN
+12,Zeke Nnaji,24.0,F,6-9,240.0,"January 9, 2001",US,5,"Zeke
+Nnaji","$8,177,778",8.177778,DEN
+0,Ausar Thompson,22.0,G,6-7,215.0,"January 30, 2003",US,2,"Ausar
+Thompson","$8,775,000",8.775,DET
+1,Bobi Klintman,22.0,F,6-9,225.0,"March 6, 2003",SE,1,"Bobi
+Klintman","$1,955,377",1.955377,DET
+2,Cade Cunningham,23.0,G,6-6,220.0,"September 25, 2001",US,4,"Cade
+Cunningham","$38,661,750",38.66175,DET
+3,Isaiah Stewart,24.0,F-C,6-8,250.0,"May 22, 2001",US,5,"Isaiah
+Stewart","$15,000,000",15.0,DET
+4,Jaden Ivey,23.0,G,6-4,195.0,"February 13, 2002",US,3,"Jaden
+Ivey","$10,107,163",10.107163,DET
+5,Jalen Duren,21.0,C,6-10,250.0,"November 18, 2003",US,3,"Jalen
+Duren","$6,483,144",6.483144,DET
+6,Marcus Sasser,24.0,G,6-2,195.0,"September 21, 2000",US,2,"Marcus
+Sasser","$2,886,720",2.88672,DET
+7,Ron Holland,20.0,F,6-8,206.0,"July 7, 2005",US,1,"Ron
+Holland","$8,657,280",8.65728,DET
+8,Tobias Harris,33.0,F,6-8,226.0,"July 15, 1992",US,14,"Tobias
+Harris","$26,634,146",26.634146,DET
+0,Brandin Podziemski,22.0,G,6-5,205.0,"February 25, 2003",US,2,"Brandin
+Podziemski","$3,687,960",3.68796,GSW
+1,Buddy Hield,32.0,G-F,6-4,220.0,"December 17, 1992",BS,9,"Buddy
+Hield","$9,219,512",9.219512,GSW
+2,Draymond Green,35.0,F,6-6,230.0,"March 4, 1990",US,13,"Draymond
+Green","$25,892,857",25.892857,GSW
+3,Gui Santos,23.0,F,6-8,209.0,"June 22, 2002",BR,2,"Gui
+Santos","$2,221,677",2.221677,GSW
+4,Jimmy Butler,35.0,F-G,6-7,230.0,"September 14, 1989",US,14,"Jimmy
+Butler","$54,126,450",54.12645,GSW
+5,Moses Moody,23.0,G,6-5,205.0,"May 31, 2002",US,4,"Moses
+Moody","$11,574,075",11.574075,GSW
+6,Quinten Post,25.0,F,7-0,238.0,"March 21, 2000",NL,1,"Quinten
+Post","$1,955,377",1.955377,GSW
+7,Stephen Curry,37.0,G,6-2,185.0,"March 14, 1988",US,16,"Stephen
+Curry","$59,606,817",59.606817,GSW
+8,Trayce Jackson-Davis,25.0,F,6-9,245.0,"February 22, 2000",US,2,"Trayce
+Jackson-Davis","$2,221,677",2.221677,GSW
+0,Alperen Şengün,23.0,C-F,6-11,235.0,"July 25, 2002",TR,4,"Alperen
+Şengün","$33,944,954",33.944954,HOU
+1,Amen Thompson,22.0,G,6-7,209.0,"January 30, 2003",US,2,"Amen
+Thompson","$9,690,600",9.6906,HOU
+2,Jabari Smith Jr.,22.0,F,6-11,220.0,"May 13, 2003",US,3,"Jabari
+Smith Jr.","$12,350,392",12.350392,HOU
+3,Kevin Durant,36.0,F-G,6-11,240.0,"September 29, 1988",US,17,"Kevin
+Durant","$54,708,609",54.708609,HOU
+4,Reed Sheppard,21.0,G,6-2,185.0,"June 24, 2004",US,1,"Reed
+Sheppard","$10,603,560",10.60356,HOU
+5,Tari Eason,24.0,F,6-8,216.0,"May 10, 2001",US,3,"Tari
+Eason","$5,675,766",5.675766,HOU
+0,Aaron Nesmith,25.0,G-F,6-5,215.0,"October 16, 1999",US,5,"Aaron
+Nesmith","$11,000,000",11.0,IND
+1,Andrew Nembhard,25.0,G,6-5,193.0,"January 16, 2000",CA,3,"Andrew
+Nembhard","$18,102,000",18.102,IND
+2,Ben Sheppard,24.0,G,6-6,190.0,"July 16, 2001",US,2,"Ben
+Sheppard","$2,790,720",2.79072,IND
+3,Bennedict Mathurin,23.0,G-F,6-6,210.0,"June 19, 2002",CA,3,"Bennedict
+Mathurin","$9,187,573",9.187573,IND
+4,James Wiseman,24.0,C,7-0,240.0,"March 31, 2001",US,4,"James
+Wiseman","$2,667,947",2.667947,IND
+5,Jarace Walker,21.0,F,6-8,240.0,"September 4, 2003",US,2,"Jarace
+Walker","$6,665,520",6.66552,IND
+6,Jay Huff,27.0,F-C,7-1,240.0,"August 25, 1998",US,4,"Jay
+Huff","$2,349,578",2.349578,IND
+7,Johnny Furphy,20.0,G-F,6-8,200.0,"December 8, 2004",AU,1,"Johnny
+Furphy","$1,955,377",1.955377,IND
+8,Obi Toppin,27.0,F,6-9,220.0,"March 4, 1998",US,5,"Obi
+Toppin","$14,000,000",14.0,IND
+9,Pascal Siakam,31.0,F-C,6-8,230.0,"April 2, 1994",CM,9,"Pascal
+Siakam","$45,550,512",45.550512,IND
+10,T.J. McConnell,33.0,G,6-1,190.0,"March 25, 1992",US,10,"T.J.
+McConnell","$10,200,000",10.2,IND
+11,Tony Bradley,27.0,F-C,6-10,248.0,"January 8, 1998",US,7,"Tony
+Bradley","$2,940,876",2.940876,IND
+12,Tyrese Haliburton,25.0,G,6-5,185.0,"February 29, 2000",US,5,"Tyrese
+Haliburton","$45,550,512",45.550512,IND
+0,Bogdan Bogdanović,33.0,G,6-5,220.0,"August 18, 1992",RS,8,"Bogdan
+Bogdanović","$16,020,000",16.02,LAC
+1,Cam Christie,20.0,G,6-5,190.0,"July 24, 2005",US,1,"Cam
+Christie","$1,955,377",1.955377,LAC
+2,Derrick Jones Jr.,28.0,F,6-5,210.0,"February 15, 1997",US,9,"Derrick
+Jones Jr.","$10,000,000",10.0,LAC
+3,Ivica Zubac,28.0,C,7-0,240.0,"March 18, 1997",BA,9,"Ivica
+Zubac","$18,102,000",18.102,LAC
+4,John Collins,27.0,F,6-9,235.0,"September 23, 1997",US,8,"John
+Collins","$26,580,000",26.58,LAC
+5,Kawhi Leonard,34.0,F,6-7,225.0,"June 29, 1991",US,13,"Kawhi
+Leonard","$50,000,000",50.0,LAC
+6,Kobe Brown,25.0,G-F,6-7,250.0,"January 1, 2000",US,2,"Kobe
+Brown","$2,654,880",2.65488,LAC
+7,Kris Dunn,31.0,G,6-3,205.0,"March 18, 1994",US,9,"Kris
+Dunn","$5,426,400",5.4264,LAC
+0,Austin Reaves,27.0,G,6-5,206.0,"May 29, 1998",US,4,"Austin
+Reaves","$13,937,574",13.937574,LAL
+1,Bronny James,20.0,G,6-2,210.0,"October 6, 2004",US,1,"Bronny
+James","$1,955,377",1.955377,LAL
+2,Dalton Knecht,24.0,G,6-6,215.0,"April 19, 2001",US,1,"Dalton
+Knecht","$4,010,160",4.01016,LAL
+3,Gabe Vincent,29.0,G,6-3,195.0,"June 14, 1996",US,6,"Gabe
+Vincent","$11,500,000",11.5,LAL
+4,Jarred Vanderbilt,26.0,F,6-8,214.0,"April 3, 1999",US,7,"Jarred
+Vanderbilt","$11,571,429",11.571429,LAL
+5,LeBron James,40.0,F-G,6-9,250.0,"December 30, 1984",US,22,"LeBron
+James","$52,627,153",52.627153,LAL
+6,Luka Dončić,26.0,G-F,6-6,230.0,"February 28, 1999",SI,7,"Luka
+Dončić","$45,999,660",45.99966,LAL
+7,Maxi Kleber,33.0,F,6-10,240.0,"January 29, 1992",DE,8,"Maxi
+Kleber","$11,000,000",11.0,LAL
+8,Rui Hachimura,27.0,F,6-8,230.0,"February 8, 1998",JP,6,"Rui
+Hachimura","$18,259,259",18.259259,LAL
+0,Brandon Clarke,28.0,F,6-8,215.0,"September 19, 1996",CA,6,"Brandon
+Clarke","$12,500,000",12.5,MEM
+1,GG Jackson II,20.0,F,6-9,215.0,"December 17, 2004",US,2,"GG
+Jackson II","$2,221,677",2.221677,MEM
+2,Ja Morant,26.0,G,6-2,174.0,"August 10, 1999",US,6,"Ja
+Morant","$39,446,090",39.44609,MEM
+3,Jaren Jackson Jr.,25.0,F,6-10,242.0,"September 15, 1999",US,7,"Jaren
+Jackson Jr.","$35,000,000",35.0,MEM
+4,Jaylen Wells,22.0,F,6-7,206.0,"August 26, 2003",US,1,"Jaylen
+Wells","$1,955,377",1.955377,MEM
+5,John Konchar,29.0,G,6-5,210.0,"March 22, 1996",US,6,"John
+Konchar","$6,165,000",6.165,MEM
+6,Kentavious Caldwell-Pope,32.0,G,6-5,204.0,"February 18, 1993",US,12,"Kentavious
+Caldwell-Pope","$21,621,500",21.6215,MEM
+7,Scotty Pippen Jr.,24.0,G,6-1,185.0,"November 10, 2000",US,3,"Scotty
+Pippen Jr.","$2,270,735",2.270735,MEM
+8,Vince Williams Jr.,25.0,F,6-4,205.0,"August 30, 2000",US,3,"Vince
+Williams Jr.","$2,301,587",2.301587,MEM
+9,Zach Edey,23.0,C,7-4,305.0,"May 14, 2002",CA,1,"Zach
+Edey","$6,045,000",6.045,MEM
+0,Andrew Wiggins,30.0,F-G,6-7,197.0,"February 23, 1995",CA,11,"Andrew
+Wiggins","$28,223,215",28.223215,MIA
+1,Bam Adebayo,28.0,C-F,6-9,255.0,"July 18, 1997",US,8,"Bam
+Adebayo","$37,096,620",37.09662,MIA
+2,Jaime Jaquez Jr.,24.0,G-F,6-6,225.0,"February 18, 2001",US,2,"Jaime
+Jaquez Jr.","$3,861,600",3.8616,MIA
+3,Kel'el Ware,21.0,C,7-0,230.0,"April 20, 2004",US,1,"Kel'el
+Ware","$4,443,360",4.44336,MIA
+4,Keshad Johnson,24.0,F,6-6,225.0,"June 23, 2001",US,1,"Keshad
+Johnson","$1,955,377",1.955377,MIA
+5,Nikola Jović,22.0,G-F,6-10,209.0,"June 9, 2003",GB,3,"Nikola
+Jović","$4,445,417",4.445417,MIA
+6,Norman Powell,32.0,G,6-3,215.0,"May 25, 1993",US,10,"Norman
+Powell","$20,482,758",20.482758,MIA
+7,Pelle Larsson,24.0,G,6-5,215.0,"February 23, 2001",SE,1,"Pelle
+Larsson","$1,955,377",1.955377,MIA
+8,Simone Fontecchio,29.0,F,6-8,209.0,"December 9, 1995",IT,3,"Simone
+Fontecchio","$8,307,692",8.307692,MIA
+9,Terry Rozier,31.0,G,6-1,190.0,"March 17, 1994",US,10,"Terry
+Rozier","$26,643,031",26.643031,MIA
+10,Tyler Herro,25.0,G,6-5,195.0,"January 20, 2000",US,6,"Tyler
+Herro","$31,000,000",31.0,MIA
+0,A.J. Green,25.0,G,6-4,200.0,"September 27, 1999",US,3,"A.J.
+Green","$2,301,587",2.301587,MIL
+1,Andre Jackson Jr.,23.0,G,6-6,210.0,"November 13, 2001",US,2,"Andre
+Jackson Jr.","$2,221,677",2.221677,MIL
+2,Giannis Antetokounmpo,30.0,F-G,6-11,242.0,"December 6, 1994",GR,12,"Giannis
+Antetokounmpo","$54,126,450",54.12645,MIL
+3,Kyle Kuzma,30.0,F,6-9,221.0,"July 24, 1995",US,8,"Kyle
+Kuzma","$22,410,605",22.410605,MIL
+4,Tyler Smith,20.0,F,6-11,224.0,"November 2, 2004",US,1,"Tyler
+Smith","$1,955,377",1.955377,MIL
+0,Anthony Edwards,24.0,G-F,6-4,225.0,"August 5, 2001",US,5,"Anthony
+Edwards","$45,550,512",45.550512,MIN
+1,Donte DiVincenzo,28.0,G,6-4,203.0,"January 31, 1997",US,7,"Donte
+DiVincenzo","$11,990,000",11.99,MIN
+2,Jaden McDaniels,24.0,F,6-9,185.0,"September 29, 2000",US,5,"Jaden
+McDaniels","$24,858,622",24.858622,MIN
+3,Jaylen Clark,23.0,G,6-5,205.0,"October 13, 2001",US,1,"Jaylen
+Clark","$2,191,897",2.191897,MIN
+4,Leonard Miller,21.0,F,6-10,210.0,"November 26, 2003",CA,2,"Leonard
+Miller","$2,221,677",2.221677,MIN
+5,Mike Conley,37.0,G,6-0,175.0,"October 11, 1987",US,18,"Mike
+Conley","$10,774,038",10.774038,MIN
+6,Rob Dillingham,20.0,G,6-1,176.0,"January 4, 2005",US,1,"Rob
+Dillingham","$6,576,120",6.57612,MIN
+7,Rudy Gobert,33.0,C,7-1,258.0,"June 26, 1992",FR,12,"Rudy
+Gobert","$35,000,000",35.0,MIN
+8,Terrence Shannon Jr.,25.0,G,6-6,215.0,"July 30, 2000",US,1,"Terrence
+Shannon Jr.","$2,674,080",2.67408,MIN
+0,Brandon Boston Jr.,23.0,G-F,6-7,185.0,"November 28, 2001",US,4,"Brandon
+Boston Jr.","$2,349,578",2.349578,NOP
+1,Dejounte Murray,28.0,G,6-5,180.0,"September 19, 1996",US,8,"Dejounte
+Murray","$31,557,103",31.557103,NOP
+2,Elfrid Payton,31.0,G,6-3,195.0,"February 22, 1994",US,9,"Elfrid
+Payton","$3,153,598",3.153598,NOP
+3,Herbert Jones,26.0,F,6-8,210.0,"October 6, 1998",US,4,"Herbert
+Jones","$13,937,574",13.937574,NOP
+4,Jordan Hawkins,23.0,G,6-5,195.0,"April 29, 2002",US,2,"Jordan
+Hawkins","$4,741,320",4.74132,NOP
+5,Jordan Poole,26.0,G,6-4,194.0,"June 19, 1999",US,6,"Jordan
+Poole","$31,848,215",31.848215,NOP
+6,Jose Alvarado,27.0,G,6-0,179.0,"April 12, 1998",US,4,"Jose
+Alvarado","$4,500,000",4.5,NOP
+7,Karlo Matković,24.0,F-C,6-11,231.0,"March 30, 2001",BA,1,"Karlo
+Matković","$1,955,377",1.955377,NOP
+8,Saddiq Bey,26.0,F,6-7,215.0,"April 9, 1999",US,4,"Saddiq
+Bey","$6,118,644",6.118644,NOP
+9,Trey Murphy III,25.0,F,6-8,206.0,"June 18, 2000",US,4,"Trey
+Murphy III","$25,000,000",25.0,NOP
+10,Yves Missi,21.0,C,6-11,235.0,"May 14, 2004",BE,1,"Yves
+Missi","$3,353,040",3.35304,NOP
+11,Zion Williamson,25.0,F-C,6-6,284.0,"July 6, 2000",US,5,"Zion
+Williamson","$39,446,090",39.44609,NOP
+0,Ariel Hukporti,23.0,C,7-0,246.0,"April 11, 2002",DE,1,"Ariel
+Hukporti","$1,955,377",1.955377,NYK
+1,Jalen Brunson,29.0,G,6-2,190.0,"August 31, 1996",US,7,"Jalen
+Brunson","$34,944,001",34.944001,NYK
+2,Josh Hart,30.0,G,6-4,215.0,"March 6, 1995",US,8,"Josh
+Hart","$19,472,240",19.47224,NYK
+3,Karl-Anthony Towns,29.0,C-F,7-0,248.0,"November 15, 1995",US,10,"Karl-Anthony
+Towns","$53,142,264",53.142264,NYK
+4,Mikal Bridges,29.0,F-G,6-6,209.0,"August 30, 1996",US,7,"Mikal
+Bridges","$24,900,000",24.9,NYK
+5,Miles McBride,24.0,G,6-2,200.0,"September 8, 2000",US,4,"Miles
+McBride","$4,333,333",4.333333,NYK
+6,Mitchell Robinson,27.0,C,7-0,240.0,"April 1, 1998",US,7,"Mitchell
+Robinson","$12,954,546",12.954546,NYK
+7,OG Anunoby,28.0,F,6-7,232.0,"July 17, 1997",GB,8,"OG
+Anunoby","$39,568,966",39.568966,NYK
+8,P.J. Tucker,40.0,F,6-5,245.0,"May 5, 1985",US,14,"P.J.
+Tucker","$3,468,960",3.46896,NYK
+9,Pacome Dadiet,20.0,F,6-7,210.0,"July 27, 2005",FR,1,"Pacome
+Dadiet","$2,847,600",2.8476,NYK
+10,Tyler Kolek,24.0,G,6-1,195.0,"March 27, 2001",US,1,"Tyler
+Kolek","$2,191,897",2.191897,NYK
+0,Aaron Wiggins,26.0,G,6-6,200.0,"January 2, 1999",US,4,"Aaron
+Wiggins","$9,672,897",9.672897,OKC
+1,Alex Caruso,31.0,G,6-5,186.0,"February 28, 1994",US,8,"Alex
+Caruso","$18,102,000",18.102,OKC
+2,Cason Wallace,21.0,G,6-4,205.0,"November 7, 2003",US,2,"Cason
+Wallace","$5,820,240",5.82024,OKC
+3,Chet Holmgren,23.0,F-C,7-1,213.0,"May 1, 2002",US,2,"Chet
+Holmgren","$13,731,368",13.731368,OKC
+4,Dillon Jones,23.0,F,6-5,240.0,"October 29, 2001",US,1,"Dillon
+Jones","$2,753,280",2.75328,OKC
+5,Isaiah Hartenstein,27.0,F,7-0,255.0,"May 5, 1998",US,7,"Isaiah
+Hartenstein","$28,500,000",28.5,OKC
+6,Isaiah Joe,26.0,G,6-5,181.0,"July 2, 1999",US,5,"Isaiah
+Joe","$12,362,338",12.362338,OKC
+7,Jalen Williams,24.0,G,6-6,220.0,"April 14, 2001",US,3,"Jalen
+Williams","$6,580,997",6.580997,OKC
+8,Kenrich Williams,30.0,G-F,6-7,210.0,"December 2, 1994",US,7,"Kenrich
+Williams","$7,163,000",7.163,OKC
+9,Luguentz Dort,26.0,G,6-4,220.0,"April 19, 1999",CA,6,"Luguentz
+Dort","$17,722,222",17.722222,OKC
+10,Nikola Topić,20.0,G,6-6,201.0,"August 10, 2005",RS,R,"Nikola
+Topić","$5,182,920",5.18292,OKC
+11,Ousmane Dieng,22.0,F,6-10,222.0,"May 21, 2003",FR,3,"Ousmane
+Dieng","$6,670,882",6.670882,OKC
+12,Shai Gilgeous-Alexander,27.0,G,6-6,200.0,"July 12, 1998",CA,7,"Shai
+Gilgeous-Alexander","$38,333,050",38.33305,OKC
+0,Anthony Black,21.0,G,6-7,198.0,"January 20, 2004",US,2,"Anthony
+Black","$7,970,280",7.97028,ORL
+1,Desmond Bane,27.0,G,6-5,215.0,"June 25, 1998",US,5,"Desmond
+Bane","$36,725,670",36.72567,ORL
+2,Franz Wagner,24.0,G-F,6-10,225.0,"August 27, 2001",DE,4,"Franz
+Wagner","$38,661,750",38.66175,ORL
+3,Goga Bitadze,26.0,C,6-11,250.0,"July 20, 1999",GE,6,"Goga
+Bitadze","$8,333,333",8.333333,ORL
+4,Jalen Suggs,24.0,G,6-5,205.0,"June 3, 2001",US,4,"Jalen
+Suggs","$35,000,000",35.0,ORL
+5,Jett Howard,21.0,G,6-8,215.0,"September 14, 2003",US,2,"Jett
+Howard","$5,529,720",5.52972,ORL
+6,Jonathan Isaac,27.0,F,6-10,230.0,"October 3, 1997",US,6,"Jonathan
+Isaac","$15,000,000",15.0,ORL
+7,Moritz Wagner,28.0,F-C,6-11,245.0,"April 26, 1997",DE,7,"Moritz
+Wagner","$5,000,000",5.0,ORL
+8,Paolo Banchero,22.0,F,6-10,250.0,"November 12, 2002",US,3,"Paolo
+Banchero","$15,334,769",15.334769,ORL
+9,Tristan Da Silva,24.0,F,6-8,217.0,"May 15, 2001",DE,1,"Tristan
+Da Silva","$3,809,520",3.80952,ORL
+10,Wendell Carter Jr.,26.0,C,6-10,270.0,"April 16, 1999",US,7,"Wendell
+Carter Jr.","$10,850,000",10.85,ORL
+0,Adem Bona,22.0,F-C,6-10,235.0,"March 28, 2003",NG,1,"Adem
+Bona","$1,955,377",1.955377,PHI
+1,Andre Drummond,32.0,C,6-11,279.0,"August 10, 1993",US,13,"Andre
+Drummond","$5,000,000",5.0,PHI
+2,Jared McCain,21.0,G,6-2,195.0,"February 20, 2004",US,1,"Jared
+McCain","$4,221,360",4.22136,PHI
+3,Joel Embiid,31.0,C,7-0,280.0,"March 16, 1994",CM,9,"Joel
+Embiid","$55,224,526",55.224526,PHI
+4,Kelly Oubre Jr.,29.0,F,6-8,203.0,"December 9, 1995",US,10,"Kelly
+Oubre Jr.","$8,382,150",8.38215,PHI
+5,Lonnie Walker IV,26.0,G,6-4,204.0,"December 14, 1998",US,7,"Lonnie
+Walker IV","$2,940,876",2.940876,PHI
+6,Paul George,35.0,F-G,6-8,220.0,"May 2, 1990",US,15,"Paul
+George","$51,666,090",51.66609,PHI
+7,Tyrese Maxey,24.0,G,6-2,200.0,"November 4, 2000",US,5,"Tyrese
+Maxey","$37,958,760",37.95876,PHI
+0,Devin Booker,28.0,G,6-6,206.0,"October 30, 1996",US,10,"Devin
+Booker","$53,142,264",53.142264,PHO
+1,Dillon Brooks,29.0,F-G,6-6,225.0,"January 22, 1996",CA,8,"Dillon
+Brooks","$21,124,110",21.12411,PHO
+2,Grayson Allen,29.0,G,6-4,198.0,"October 8, 1995",US,7,"Grayson
+Allen","$16,875,000",16.875,PHO
+3,Jalen Green,23.0,G,6-4,178.0,"February 9, 2002",US,4,"Jalen
+Green","$33,333,333",33.333333,PHO
+4,Jordan Goodwin,26.0,G,6-3,200.0,"October 23, 1998",US,4,"Jordan
+Goodwin","$2,349,578",2.349578,PHO
+5,Mark Williams,23.0,C,7-0,241.0,"December 16, 2001",US,3,"Mark
+Williams","$6,276,531",6.276531,PHO
+6,Nick Richards,27.0,F-C,7-0,245.0,"November 29, 1997",JM,5,"Nick
+Richards","$5,000,000",5.0,PHO
+7,Oso Ighodaro,23.0,F,6-10,235.0,"July 14, 2002",US,1,"Oso
+Ighodaro","$1,955,377",1.955377,PHO
+8,Royce O'Neale,32.0,F,6-4,226.0,"June 5, 1993",US,8,"Royce
+O'Neale","$10,125,000",10.125,PHO
+9,Ryan Dunn,22.0,F,6-6,216.0,"January 7, 2003",US,1,"Ryan
+Dunn","$2,657,760",2.65776,PHO
+0,Deni Avdija,24.0,G-F,6-9,210.0,"January 3, 2001",IL,5,"Deni
+Avdija","$14,375,000",14.375,POR
+1,Donovan Clingan,21.0,C,7-2,280.0,"February 23, 2004",US,1,"Donovan
+Clingan","$7,178,400",7.1784,POR
+2,Duop Reath,29.0,C,6-11,245.0,"June 26, 1996",SS,2,"Duop
+Reath","$2,221,677",2.221677,POR
+3,Jerami Grant,31.0,F,6-7,210.0,"March 12, 1994",US,11,"Jerami
+Grant","$32,000,001",32.000001,POR
+4,Jrue Holiday,35.0,G,6-4,205.0,"June 12, 1990",US,16,"Jrue
+Holiday","$32,400,000",32.4,POR
+5,Kris Murray,25.0,F,6-8,220.0,"August 19, 2000",US,2,"Kris
+Murray","$3,132,000",3.132,POR
+6,Matisse Thybulle,28.0,G,6-5,201.0,"March 4, 1997",US,6,"Matisse
+Thybulle","$11,550,000",11.55,POR
+7,Rayan Rupert,21.0,G,6-6,205.0,"May 31, 2004",FR,2,"Rayan
+Rupert","$2,221,677",2.221677,POR
+8,Robert Williams,27.0,C-F,6-9,237.0,"October 17, 1997",US,7,"Robert
+Williams","$13,285,713",13.285713,POR
+9,Scoot Henderson,21.0,G,6-3,202.0,"February 3, 2004",US,2,"Scoot
+Henderson","$10,748,040",10.74804,POR
+10,Shaedon Sharpe,22.0,G,6-6,200.0,"May 30, 2003",CA,3,"Shaedon
+Sharpe","$8,399,983",8.399983,POR
+11,Toumani Camara,25.0,F,6-8,220.0,"May 8, 2000",BE,2,"Toumani
+Camara","$2,221,677",2.221677,POR
+0,Dario Šarić,31.0,F-C,6-10,225.0,"April 8, 1994",HR,8,"Dario
+Šarić","$5,426,400",5.4264,SAC
+1,DeMar DeRozan,36.0,G-F,6-6,220.0,"August 7, 1989",US,16,"DeMar
+DeRozan","$24,570,000",24.57,SAC
+2,Devin Carter,23.0,G,6-2,195.0,"March 18, 2002",US,1,"Devin
+Carter","$4,923,720",4.92372,SAC
+3,Domantas Sabonis,29.0,C-F,6-10,240.0,"May 3, 1996",US,9,"Domantas
+Sabonis","$43,636,000",43.636,SAC
+4,Isaac Jones,25.0,F,6-8,245.0,"July 11, 2000",US,1,"Isaac
+Jones","$1,955,377",1.955377,SAC
+5,Keegan Murray,25.0,F,6-8,215.0,"August 19, 2000",US,3,"Keegan
+Murray","$11,144,093",11.144093,SAC
+6,Keon Ellis,25.0,G,6-6,175.0,"January 8, 2000",US,3,"Keon
+Ellis","$2,301,587",2.301587,SAC
+7,Malik Monk,27.0,G,6-3,200.0,"February 4, 1998",US,8,"Malik
+Monk","$18,797,619",18.797619,SAC
+8,Terence Davis,28.0,G,6-4,201.0,"May 16, 1997",US,5,"Terence
+Davis","$2,546,675",2.546675,SAC
+9,Zach LaVine,30.0,G-F,6-5,200.0,"March 10, 1995",US,11,"Zach
+LaVine","$47,499,660",47.49966,SAC
+0,De'Aaron Fox,27.0,G,6-3,185.0,"December 20, 1997",US,8,"De'Aaron
+Fox","$37,096,620",37.09662,SAS
+1,Devin Vassell,25.0,G-F,6-5,200.0,"August 23, 2000",US,5,"Devin
+Vassell","$27,000,000",27.0,SAS
+2,Harrison Barnes,33.0,F,6-8,225.0,"May 30, 1992",US,13,"Harrison
+Barnes","$19,000,000",19.0,SAS
+3,Jeremy Sochan,22.0,F-G,6-8,230.0,"May 20, 2003",US,3,"Jeremy
+Sochan","$7,096,231",7.096231,SAS
+4,Julian Champagnie,24.0,F,6-8,220.0,"June 29, 2001",US,3,"Julian
+Champagnie","$3,000,000",3.0,SAS
+5,Keldon Johnson,25.0,G,6-5,220.0,"October 11, 1999",US,6,"Keldon
+Johnson","$17,500,000",17.5,SAS
+6,Kelly Olynyk,34.0,C-F,6-11,240.0,"April 19, 1991",CA,12,"Kelly
+Olynyk","$13,445,122",13.445122,SAS
+7,Luke Kornet,30.0,C-F,7-2,250.0,"July 15, 1995",US,8,"Luke
+Kornet","$11,000,000",11.0,SAS
+8,Stephon Castle,20.0,G,6-6,215.0,"November 1, 2004",US,1,"Stephon
+Castle","$9,560,520",9.56052,SAS
+9,Victor Wembanyama,21.0,C-F,7-3,235.0,"January 4, 2004",FR,2,"Victor
+Wembanyama","$13,376,880",13.37688,SAS
+0,A.J. Lawson,25.0,G,6-6,179.0,"July 15, 2000",CA,3,"A.J.
+Lawson","$2,270,735",2.270735,TOR
+1,Brandon Ingram,28.0,F,6-8,190.0,"September 2, 1997",US,9,"Brandon
+Ingram","$38,095,238",38.095238,TOR
+2,Gradey Dick,21.0,G,6-6,205.0,"November 20, 2003",US,2,"Gradey
+Dick","$4,990,560",4.99056,TOR
+3,Immanuel Quickley,26.0,G,6-3,190.0,"June 17, 1999",US,5,"Immanuel
+Quickley","$32,500,000",32.5,TOR
+4,Ja'Kobe Walter,20.0,G,6-5,180.0,"September 4, 2004",US,1,"Ja'Kobe
+Walter","$3,638,160",3.63816,TOR
+5,Jakob Poeltl,29.0,C,7-0,245.0,"October 15, 1995",AT,9,"Jakob
+Poeltl","$19,500,000",19.5,TOR
+6,Jamal Shead,23.0,G,6-0,200.0,"June 24, 2002",US,1,"Jamal
+Shead","$1,955,377",1.955377,TOR
+7,Jamison Battle,24.0,F,6-7,220.0,"May 10, 2001",US,1,"Jamison
+Battle","$1,955,377",1.955377,TOR
+8,Jonathan Mogbo,23.0,F,6-9,225.0,"October 29, 2001",US,1,"Jonathan
+Mogbo","$1,955,377",1.955377,TOR
+9,Ochai Agbaji,25.0,G,6-5,215.0,"April 20, 2000",US,3,"Ochai
+Agbaji","$6,383,525",6.383525,TOR
+10,RJ Barrett,25.0,G-F,6-6,214.0,"June 14, 2000",CA,6,"RJ
+Barrett","$27,705,357",27.705357,TOR
+11,Scottie Barnes,24.0,G-F,6-7,227.0,"August 1, 2001",US,4,"Scottie
+Barnes","$38,661,750",38.66175,TOR
+0,Brice Sensabaugh,21.0,F,6-6,235.0,"October 30, 2003",US,2,"Brice
+Sensabaugh","$2,693,760",2.69376,UTA
+1,Cody Williams,20.0,G-F,6-7,190.0,"November 20, 2004",US,1,"Cody
+Williams","$5,742,480",5.74248,UTA
+2,Collin Sexton,26.0,G,6-3,190.0,"January 4, 1999",US,7,"Collin
+Sexton","$19,175,000",19.175,UTA
+3,Georges Niang,32.0,F,6-7,230.0,"June 17, 1993",US,9,"Georges
+Niang","$8,200,000",8.2,UTA
+4,Isaiah Collier,20.0,G,6-3,210.0,"October 8, 2004",US,1,"Isaiah
+Collier","$2,638,200",2.6382,UTA
+5,KJ Martin,24.0,F,6-6,215.0,"January 6, 2001",US,5,"KJ
+Martin","$8,025,000",8.025,UTA
+6,Kevin Love,36.0,F-C,6-8,251.0,"September 7, 1988",US,17,"Kevin
+Love","$4,150,000",4.15,UTA
+7,Keyonte George,21.0,G,6-4,185.0,"November 8, 2003",US,2,"Keyonte
+George","$4,278,960",4.27896,UTA
+8,Kyle Anderson,31.0,F-G,6-9,230.0,"September 20, 1993",US,11,"Kyle
+Anderson","$9,219,512",9.219512,UTA
+9,Kyle Filipowski,21.0,F-C,6-11,250.0,"November 7, 2003",US,1,"Kyle
+Filipowski","$3,000,000",3.0,UTA
+10,Lauri Markkanen,28.0,F-C,7-0,240.0,"May 22, 1997",FI,8,"Lauri
+Markkanen","$46,394,100",46.3941,UTA
+11,Svi Mykhailiuk,28.0,G-F,6-7,205.0,"June 10, 1997",UA,7,"Svi
+Mykhailiuk","$3,675,000",3.675,UTA
+12,Taylor Hendricks,21.0,F,6-9,210.0,"November 22, 2003",US,2,"Taylor
+Hendricks","$6,127,080",6.12708,UTA
+13,Walker Kessler,24.0,C,7-0,245.0,"July 26, 2001",US,3,"Walker
+Kessler","$4,878,938",4.878938,UTA
+0,AJ Johnson,20.0,G,6-4,160.0,"December 1, 2004",US,1,"AJ
+Johnson","$3,090,480",3.09048,WAS
+1,Alex Sarr,20.0,F,7-0,205.0,"April 26, 2005",FR,1,"Alex
+Sarr","$11,808,240",11.80824,WAS
+2,Bilal Coulibaly,21.0,F,6-8,195.0,"July 26, 2004",FR,2,"Bilal
+Coulibaly","$7,275,600",7.2756,WAS
+3,Bub Carrington,20.0,G,6-4,190.0,"July 21, 2005",US,1,"Bub
+Carrington","$4,677,600",4.6776,WAS
+4,CJ McCollum,33.0,G,6-3,190.0,"September 19, 1991",US,12,"CJ
+McCollum","$30,666,666",30.666666,WAS
+5,Cam Whitmore,21.0,F,6-7,232.0,"July 8, 2004",US,2,"Cam
+Whitmore","$3,539,760",3.53976,WAS
+6,Corey Kispert,26.0,G-F,6-7,220.0,"March 3, 1999",US,4,"Corey
+Kispert","$13,975,000",13.975,WAS
+7,Justin Champagnie,24.0,F,6-6,200.0,"June 29, 2001",US,4,"Justin
+Champagnie","$2,349,578",2.349578,WAS
+8,Khris Middleton,34.0,F-G,6-7,222.0,"August 12, 1991",US,13,"Khris
+Middleton","$33,296,296",33.296296,WAS
+9,Kyshawn George,21.0,G,6-7,200.0,"December 12, 2003",CH,1,"Kyshawn
+George","$2,966,760",2.96676,WAS
+10,Malaki Branham,22.0,G,6-4,180.0,"May 12, 2003",US,3,"Malaki
+Branham","$4,962,033",4.962033,WAS
